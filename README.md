@@ -9,3 +9,4 @@ In my solutions I tend to experiment with methodologies, programming styles and 
 |Day| Puzzle| Solution|
 |---|:-------|---------|
 | 1 |[Calorie Counting](https://adventofcode.com/2022/day/1) |[Solution](https://github.com/valerakostin/AdventOfCode-2022/blob/main/src/Day01.kt)|
+| 2 |[Rock Paper Scissors](https://adventofcode.com/2022/day/2) |[Solution](https://github.com/valerakostin/AdventOfCode-2022/blob/main/src/Day02.kt)|
