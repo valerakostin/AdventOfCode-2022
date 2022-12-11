@@ -12,3 +12,4 @@ In my solutions I tend to experiment with methodologies, programming styles and 
 | 2 |[Rock Paper Scissors](https://adventofcode.com/2022/day/2) |[Solution](https://github.com/valerakostin/AdventOfCode-2022/blob/main/src/Day02.kt)|
 | 3 |[Rucksack Reorganization](https://adventofcode.com/2022/day/3) |[Solution](https://github.com/valerakostin/AdventOfCode-2022/blob/main/src/Day03.kt)|
 | 4 |[Camp Cleanup](https://adventofcode.com/2022/day/4) |[Solution](https://github.com/valerakostin/AdventOfCode-2022/blob/main/src/Day04.kt)|
+| 5 |[Supply Stacks](https://adventofcode.com/2022/day/5) |[Solution](https://github.com/valerakostin/AdventOfCode-2022/blob/main/src/Day05.kt)|
