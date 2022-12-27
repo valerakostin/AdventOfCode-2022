@@ -15,3 +15,4 @@ In my solutions I tend to experiment with methodologies, programming styles and 
 | 5 |[Supply Stacks](https://adventofcode.com/2022/day/5) |[Solution](https://github.com/valerakostin/AdventOfCode-2022/blob/main/src/Day05.kt)|
 | 6 |[Tuning Trouble](https://adventofcode.com/2022/day/6) |[Solution](https://github.com/valerakostin/AdventOfCode-2022/blob/main/src/Day06.kt)|
 | 7 |[No Space Left On Device](https://adventofcode.com/2022/day/7) |[Solution](https://github.com/valerakostin/AdventOfCode-2022/blob/main/src/Day07.kt)|
+| 8 |[Treetop Tree House](https://adventofcode.com/2022/day/8) |[Solution](https://github.com/valerakostin/AdventOfCode-2022/blob/main/src/Day08.kt)|
